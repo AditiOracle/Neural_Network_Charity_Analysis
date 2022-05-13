@@ -16,6 +16,9 @@ There are more than 34,000 organizations that have received funding from Alphabe
   - APPLICATION\_TYPE, AFFILIATION, CLASSIFICATION, ORGANISATION, INCOME\_AMT, ASK\_AMT are considered to be the features for your model
   - EIN, NAME, USE\_CASE, STATUS, SPECIAL\_CONSIDERATION are neither targets nor features, and should be removed from the input data?
 
+![](https://github.com/AditiOracle/Neural_Network_Charity_Analysis/blob/main/Resources/Preprocessing.PNG)
+
+
 **Compiling, Training, and Evaluating the Model**
 
   - How many neurons, layers, and activation functions did you select for your neural network model, and why?
@@ -35,6 +38,10 @@ I can only achieved 73% of target predictive accuracy
   - What steps did you take to try and increase model performance?
 
 I tried to change the neurons, activation layer but at that point my target accuracy was just reaching 65% BUT when I created more bins for rare occurrences in columns then I was able to achieve the target accuracy of 73%
+
+![](https://github.com/AditiOracle/Neural_Network_Charity_Analysis/blob/main/Resources/Adding_layers_neurons.PNG)
+
+![](https://github.com/AditiOracle/Neural_Network_Charity_Analysis/blob/main/Resources/Result.PNG)
 
 1. **Summary:**  Even after changing the neurons, adding more activation function and creating more bins for rare occurrences, we ended up with 73% accuracy and 0.55 Loss metric.
 
