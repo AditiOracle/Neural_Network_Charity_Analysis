@@ -1,7 +1,7 @@
 **MODULE 10**
 
 **CHALLENGE
- NEURAL NETWORKS **** Alphabet Soup**
+ NEURAL NETWORKS Alphabet Soup**
 
 1. **Overview of the analysis:**
 
