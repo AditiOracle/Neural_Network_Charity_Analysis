@@ -1,6 +1,6 @@
 **Neural Networks and Deep Learning Models**
 
-**Alphabet Soup**
+**Alphabet Soup Project**
 
 1. **Overview of the analysis:**
 
