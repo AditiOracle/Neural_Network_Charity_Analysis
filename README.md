@@ -1,8 +1,4 @@
-**MODULE 10**
-
-**CHALLENGE**
-
-**NEURAL NETWORKS**
+**Neural Networks and Deep Learning Models**
 
 **Alphabet Soup**
 
